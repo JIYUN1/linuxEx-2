@@ -43,7 +43,7 @@ void setNum_arr(int ***arr, int size)
 
 	x = 0;
 	y = 0;
-	sw = 1;
+	sw = 13231312321321
 	data = 1;
 
 	while(size)
